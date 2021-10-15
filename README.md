@@ -5,4 +5,5 @@ We provide 120 sample points of ABB IRB 120 robot, which can be used for the ver
 (2)Z. Li, S. Li, and X. Luo, “Data-driven Industrial Robot Arm Calibration: A Machine Learning Perspective,” 18th IEEE International Conference on Networking, Sensing and Control, 2021.
 In addition, you can review the following modeling method introduction links: https://blog.csdn.net/weixin_42355349/article/details/81977607?utm_source=blogxgwz5  
 The least squares calculation code for robot calibration: https://github.com/priscillascu/Sliding_Mode_Control_Matlab/blob/master/system_identification.m  
-The least squares description: https://blog.csdn.net/sinat_38887014/article/details/103481076
+The least squares description:  
+https://blog.csdn.net/sinat_38887014/article/details/103481076
